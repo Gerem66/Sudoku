@@ -1,0 +1,27 @@
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+d:\users\geremy\documents\visual studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Users\Geremy\Documents\Software\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+D:\Program\Software\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Program\Software\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Program\Software\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Program\Software\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Program\Software\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Program\Software\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+D:\Program\Software\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\Program\Software\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Program\Software\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
